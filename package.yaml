@@ -2,9 +2,10 @@ name:                reducer
 version:             0.1.0.0
 github:              "githubuser/reducer"
 license:             BSD3
-author:              "Author name here"
+author:              "Thomas Marsh"
 maintainer:          "example@example.com"
-copyright:           "2021 Author name here"
+copyright:           "2021 Thomas Marsh"
+
 
 extra-source-files:
 - README.md

@@ -9,9 +9,9 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/reducer#readme>
 homepage:       https://github.com/githubuser/reducer#readme
 bug-reports:    https://github.com/githubuser/reducer/issues
-author:         Author name here
+author:         Thomas Marsh
 maintainer:     example@example.com
-copyright:      2021 Author name here
+copyright:      2021 Thomas Marsh
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
